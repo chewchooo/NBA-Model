@@ -1,1 +1,1 @@
-window.NBA_EDGE_META={"generated": "2026-09-12T16:36:33", "date": "2026-10-20", "season": "2026-27", "upcoming": true, "counts": {"rows": 74, "games": 3}};
+window.NBA_EDGE_META={"generated": "2026-10-30T22:02:02", "date": "2026-10-30", "season": "2026-27", "upcoming": true, "counts": {"rows": 252, "games": 10}};
